@@ -1,0 +1,13 @@
+Testing Specs for Recipes:
+
+name: string
+summary: text
+description: text
+
+-Name must be present
+-Name must be btw 5 chars and Less than 100 Characters
+-summary must be present
+-summary must be btw 10 > 150 chars
+-Description must be present
+-descripton must be between 20 and 500 chars
+-chef_id must be present
